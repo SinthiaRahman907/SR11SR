@@ -12,7 +12,7 @@ purchase decision made in **January 2026**:
 Data: Elexon BMRS, national level only — actuals from `FUELHH` (`fuelType = WIND`),
 forecasts from `WINDFOR`.
 
-**Live app:** _<add your Vercel / Heroku URL here>_
+**Live app:** https://sr-11-sr.vercel.app
 
 ---
 
