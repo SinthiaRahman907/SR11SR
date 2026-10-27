@@ -1,0 +1,6 @@
+services:
+  winddesk:
+    build: .
+    ports: ["8000:8000"]
+    environment:
+      - GATE_CLOSURE=09:50
